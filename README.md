@@ -5,4 +5,3 @@
 - 🤔 I’m looking for help with **programming fundamentals** (like Python or JavaScript) and foundational coding logic.
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I’m super enthusiastic about learning new things!** I'm just starting out, so kindness and constructive feedback mean the world to me. ✨
--->
