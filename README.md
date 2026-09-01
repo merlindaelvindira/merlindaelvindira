@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning **Git & GitHub** and getting ready to dive in!
 - 🤔 I’m looking for help with **programming fundamentals** (like Python or JavaScript) and foundational coding logic.
-- 😄 Pronouns: **She/Her**
 - ⚡ Currently learning programming! This profile serves as my personal coding playground—expect continuous updates as I level up my skills.
 
 
